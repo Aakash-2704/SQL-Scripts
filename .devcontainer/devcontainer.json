@@ -15,8 +15,8 @@
 						"server": "localhost,1433",
 						"database": "master",
 						"authenticationType": "SqlLogin",
-						"user": "sa",
-						"password": "Aakash",
+						"user": "Aakash",
+						"password": "aakash",
 						"savePassword": true,
 						"profileName": "LocalDev",
 						"trustServerCertificate": true
